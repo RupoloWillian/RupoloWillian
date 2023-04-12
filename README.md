@@ -1,4 +1,4 @@
-### Olá! Eu sou WIllian Rupolo
+### Olá! Eu sou Willian Rupolo
 ###
 📖 Atualmente venho estudando SQL e Power BI com o objetivo de buscar minha primeira vaga como Analista de BI. Aqui você pode encontrar os meus projetos de estudo referentes ao SQL.
 
